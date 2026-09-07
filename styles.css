@@ -88,7 +88,7 @@ nav {
 
 .hero {
   text-align: center;
-  padding: 96px 24px 88px;
+  padding: 68px 24px 88px;
   max-width: 720px;
   margin: 0 auto;
 }
@@ -141,7 +141,7 @@ nav {
 .pillars {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  max-width: 1080px;
+  max-width: 1160px;
   margin: 0 auto;
   padding: 0 32px 96px;
 }
@@ -188,7 +188,7 @@ nav {
 }
 
 .statement-inner {
-  max-width: 1080px;
+  max-width: 1160px;
   margin: 0 auto;
   display: flex;
   align-items: center;
@@ -211,7 +211,7 @@ nav {
 /* ---------- Ventures ---------- */
 
 .ventures {
-  max-width: 1080px;
+  max-width: 1160px;
   margin: 0 auto;
   padding: 96px 32px;
 }
@@ -254,7 +254,7 @@ footer {
 }
 
 .footer-row {
-  max-width: 1080px;
+  max-width: 1160px;
   margin: 0 auto;
   display: flex;
   justify-content: space-between;
